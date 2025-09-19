@@ -15,6 +15,7 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("But instead of fighting fair, you feel a dark power taking on you...")
 
 def center_path():
     print("You walk center and find a peaceful garden with a crystal-clear pond.")
