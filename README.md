@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: Player embraces dark power, defeats the squirrel unfairly, and transforms into the villain
 
 ## Final Checklist
 
